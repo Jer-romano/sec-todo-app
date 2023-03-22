@@ -1,0 +1,33 @@
+.done {
+    text-decoration: line-through;
+    color: green;
+}
+
+body {
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} 
+
+h1 {
+    font-size: 50px;
+}
+
+ul {
+    display: inline-block;
+}
+
+
+p, label {
+    font-size: 20px;
+}
+
+button {
+    margin: 10px;
+}
+
+li {
+    font-size: 25px;
+}
+li:hover {
+    background-color: lightgreen;
+}
